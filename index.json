@@ -2,6 +2,42 @@
  "format": 1,
  "packs": [
   {
+   "id": "school",
+   "title": "At school",
+   "title_zh": "学校",
+   "author": "Shénbǐ",
+   "description": "Pencils, erasers, a schoolbag, a writing brush and a blackboard for your world, plus classmates, homework, exams and 上课 / 下课, a day-at-school story, and 14 sentences to read.",
+   "version": 1,
+   "counts": {
+    "words": 20,
+    "poems": 0,
+    "books": 1,
+    "sentences": 14
+   },
+   "bytes": 213580,
+   "file": "packs/school.json",
+   "sha256": "b354510c87d7db53aa247dc17b87441185d8e0b692669694b75a8db4a147dc34",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "title_zh": "节日",
+   "author": "Shénbǐ",
+   "description": "Chinese New Year, Mid-Autumn and Dragon Boat Festival: red envelopes, firecrackers, couplets, zongzi and a dragon boat for your world, New Year greetings, the old legend of the Nian monster as a short book, and 14 sentences to read.",
+   "version": 1,
+   "counts": {
+    "words": 19,
+    "poems": 0,
+    "books": 1,
+    "sentences": 14
+   },
+   "bytes": 244996,
+   "file": "packs/festivals.json",
+   "sha256": "dae112c6d423f2d9a7120ce9d65ee600d8b7b0604f769eceb0b9f24df34002d3",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "first-stories",
    "title": "First stories",
    "title_zh": "小故事",
@@ -35,6 +71,24 @@
    "bytes": 236376,
    "file": "packs/kitchen.json",
    "sha256": "e41f9f20b7b4b2084b475108296e2d239db13ea3a5e049f0188b472676aeca35",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "journey-west",
+   "title": "Journey to the West",
+   "title_zh": "西游记",
+   "author": "Shénbǐ",
+   "description": "The Monkey King and friends from the classic novel: his golden staff, his somersault cloud, peaches of immortality and a demon's gourd for your world, the heroes' names, the birth of the stone monkey as a short book, and 14 sentences to read.",
+   "version": 1,
+   "counts": {
+    "words": 18,
+    "poems": 0,
+    "books": 1,
+    "sentences": 14
+   },
+   "bytes": 231300,
+   "file": "packs/journey-west.json",
+   "sha256": "130d7a07d1ecc59345edd949c9221242da886ca26375d387963304543ad3355a",
    "updated": "2026-11-19"
   },
   {
