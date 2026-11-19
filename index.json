@@ -110,6 +110,24 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "art-of-war",
+   "title": "The Art of War",
+   "title_zh": "孙子兵法",
+   "author": "Sun Tzu · Shénbǐ",
+   "description": "The whole book, all 13 chapters, to read in Chinese page by page, with Lionel Giles' English translation on every page and the meaning of any word you tap. Plus its key words (将 general, 胜 victory, 知彼知己…), a war chariot, drum, banner, bow and bamboo slips for your world, and 11 sentences to read. Text: Sun Tzu (public domain); English: Lionel Giles, 1910 (public domain); word meanings: CC-CEDICT (CC BY-SA 4.0), so this pack is shared under CC BY-SA 4.0 too.",
+   "version": 1,
+   "counts": {
+    "words": 20,
+    "poems": 0,
+    "books": 13,
+    "sentences": 11
+   },
+   "bytes": 538098,
+   "file": "packs/art-of-war.json",
+   "sha256": "045dd95d1ed69c2a9a4caf8e7b872a3103c64868ae76c73b2afc868741c7e6f5",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "more-poems",
    "title": "Two more poems",
    "title_zh": "诗二首",
