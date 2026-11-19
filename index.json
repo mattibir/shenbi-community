@@ -1,0 +1,59 @@
+{
+ "format": 1,
+ "packs": [
+  {
+   "id": "first-stories",
+   "title": "First stories",
+   "title_zh": "小故事",
+   "author": "Shénbǐ",
+   "description": "Two very short stories to read in characters: a kitten looking for friends, and a snowy day. Tap any word to hear it and see what it means.",
+   "version": 1,
+   "counts": {
+    "words": 0,
+    "poems": 0,
+    "books": 2,
+    "sentences": 0
+   },
+   "bytes": 5282,
+   "file": "packs/first-stories.json",
+   "sha256": "28b2b7acadd7b034e66d117307b82b5d14360c7e49caa5bbc1cd28593ab5cfd1",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "kitchen",
+   "title": "In the kitchen",
+   "title_zh": "厨房",
+   "author": "Shénbǐ",
+   "description": "Bowls, chopsticks, noodles and a big fridge for your world, plus 好吃 (tasty) and 做饭 (to cook), and 14 sentences to read.",
+   "version": 1,
+   "counts": {
+    "words": 12,
+    "poems": 0,
+    "books": 0,
+    "sentences": 14
+   },
+   "bytes": 236376,
+   "file": "packs/kitchen.json",
+   "sha256": "e41f9f20b7b4b2084b475108296e2d239db13ea3a5e049f0188b472676aeca35",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "more-poems",
+   "title": "Two more poems",
+   "title_zh": "诗二首",
+   "author": "Shénbǐ",
+   "description": "悯农 (why you shouldn't waste rice) and 相思 (red beans for a friend you miss). Like the game's own poems, they fill in by themselves as you learn their words.",
+   "version": 1,
+   "counts": {
+    "words": 0,
+    "poems": 2,
+    "books": 0,
+    "sentences": 0
+   },
+   "bytes": 88984,
+   "file": "packs/more-poems.json",
+   "sha256": "2cc16afb9be5c64e498e427bc5705db35695c94002d3af9e598a37338d45714c",
+   "updated": "2026-11-19"
+  }
+ ]
+}
