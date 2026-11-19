@@ -38,6 +38,24 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "apothecary-diaries",
+   "title": "The Apothecary Diaries",
+   "title_zh": "药屋少女",
+   "author": "Shénbǐ (unofficial fan pack)",
+   "description": "Herbs, poisons and palace life, themed on The Apothecary Diaries (药屋少女的呢喃): 20 words (a medicine chest, silver needles, a hairpin…, plus 猫猫 Maomao and 壬氏 Jinshi), a short story of our own about a poisoned cat, and 15 sentences to read.",
+   "version": 1,
+   "counts": {
+    "words": 20,
+    "poems": 0,
+    "books": 1,
+    "sentences": 15
+   },
+   "bytes": 260697,
+   "file": "packs/apothecary-diaries.json",
+   "sha256": "e48a6c4e6f44c1238705403a742a0deefe5ded507a06130a101acaa8744e3f81",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "more-poems",
    "title": "Two more poems",
    "title_zh": "诗二首",
